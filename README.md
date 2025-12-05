@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 动态波浪 Header，配色我选了海洋蓝渐变 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006494,100:247BA0&height=300&section=header&text=Hello%20World&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006494,100:247BA0&height=300&section=header&text=HI&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <!-- 打字机特效：自动轮播文字 -->
   <a href="https://git.io/typing-svg">
