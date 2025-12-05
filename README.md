@@ -46,10 +46,6 @@
   <table align="center">
     <tr>
       <td>
-        <!-- 个人综合数据卡片 -->
-        <img src="https://github-readme-stats.vercel.app/api?username=HarmonLiu05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-      </td>
-      <td>
         <!-- 常用语言比例图 -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarmonLiu05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
       </td>
