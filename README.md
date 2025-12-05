@@ -33,7 +33,7 @@
   <h3>🛠️ Tech Stack</h3>
   <!-- 这里使用了 skill-icons，你可以根据自己学的增删 icons 参数 -->
   <!-- 比如删掉 react，加上 c, cpp 等 -->
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,vscode,idea&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js&perline=6" />
 </div>
 
 <br>
@@ -59,5 +59,6 @@
 
 <!-- 底部装饰 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006494,100:247BA0&height=100&section=footer" width="100%" />
+  <!-- 替换你的ID -->
+  <img src="https://metrics.lecoq.io/HarmonLiu05?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FShanghai" />
 </div>
