@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harmon Liu
 
-### A passionate developer from around the world
+### A passionate developer from Ocean University of China（major in Software Engineering for two years）
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
