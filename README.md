@@ -42,15 +42,6 @@
 <!-- ⚠️ 注意：请将下方的 'HarmonLiu05' 替换为你真实的 ID -->
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  
-  <table align="center">
-    <tr>
-      <td>
-        <!-- 常用语言比例图 -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarmonLiu05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 <!-- 底部装饰 -->
