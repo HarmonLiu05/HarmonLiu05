@@ -33,7 +33,7 @@
   <h3>🛠️ Tech Stack</h3>
   <!-- 这里使用了 skill-icons，你可以根据自己学的增删 icons 参数 -->
   <!-- 比如删掉 react，加上 c, cpp 等 -->
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,git,linux,vscode,idea,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,vscode,idea&perline=6" />
 </div>
 
 <br>
