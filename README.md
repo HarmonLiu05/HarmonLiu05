@@ -37,15 +37,7 @@
 </div>
 
 <br>
-
+<a href="https://githubroast.dev/u/HarmonLiu05"><img src="https://githubroast.dev/api/card/HarmonLiu05" alt="GitHub Roast" width="600" /></a>
 <!-- 动态数据统计卡片 -->
 <!-- ⚠️ 注意：请将下方的 'HarmonLiu05' 替换为你真实的 ID -->
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-</div>
 
-<!-- 底部装饰 -->
-<div align="center">
-  <!-- 替换你的ID -->
-  <img src="https://metrics.lecoq.io/HarmonLiu05?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FShanghai" />
-</div>
