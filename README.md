@@ -18,11 +18,7 @@
     👋 Hi there! I am a Sophomore majoring in <b>Software Engineering</b> at <b>Ocean University of China</b>.
   </p>
 
-  <p>
-    🔭 I’m currently working on <b>Core CS Courses & Algorithms</b><br>
-    🌱 I’m currently learning <b>Java, Python, and Web Development</b><br>
-    💬 Ask me about <b>C++, Linux, or OUC life!</b>
-  </p>
+ 
 
 </div>
 
@@ -33,7 +29,7 @@
   <h3>🛠️ Tech Stack</h3>
   <!-- 这里使用了 skill-icons，你可以根据自己学的增删 icons 参数 -->
   <!-- 比如删掉 react，加上 c, cpp 等 -->
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp&perline=6" />
 </div>
 
 <br>
